@@ -7,6 +7,7 @@ int main()
 	// 최대 힙 생성
 	for (int i = 1; i < number; i++)
 	{
+		// 자식 노드를 의미하는 변수
 		int c = i;
 		do {
 			int root = (c - 1) / 2;
