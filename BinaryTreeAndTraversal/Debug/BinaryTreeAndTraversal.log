@@ -1,0 +1,3 @@
+﻿  BinaryTreeAndTraversal.cpp
+C:\Users\LG\Documents\GitHub\Practice_Algorithm\Practice_Algorithm\BinaryTreeAndTraversal\BinaryTreeAndTraversal.cpp(12): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+  BinaryTreeAndTraversal.vcxproj -> C:\Users\LG\Documents\GitHub\Practice_Algorithm\Practice_Algorithm\BinaryTreeAndTraversal\Debug\BinaryTreeAndTraversal.exe
